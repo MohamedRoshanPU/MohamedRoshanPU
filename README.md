@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedRoshanPU
-- 👀 I’m interested in UI/UX Designing and front-end development
+- 👀 I’m interested in Frontend technologies like React JS and UI/UX Designing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
